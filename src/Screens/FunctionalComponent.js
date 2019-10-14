@@ -26,7 +26,7 @@ const FunctionalComponent = (props) => {
     return (
         <View style={{top: 40}}>
             <Text>
-                FunctionalComponent | state: {state}
+                FunctionalComponent state: {state}
             </Text>
             <Button
                 title="Change Functional Component State"
